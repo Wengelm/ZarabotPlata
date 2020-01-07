@@ -147,6 +147,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="SotrudnicStruct.cpp" />
+    <ClCompile Include="UserStruct.cpp" />
     <ClCompile Include="ZarabotPlata.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
